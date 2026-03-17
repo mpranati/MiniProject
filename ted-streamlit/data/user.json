@@ -1,0 +1,41 @@
+{
+  "watched": {},
+  "ratings": {},
+  "skipped": {},
+  "topic_exposure": {
+    "business": 0,
+    "creativity": 0,
+    "ai": 0,
+    "language": 0,
+    "storytelling": 0,
+    "relationships": 0,
+    "happiness": 0,
+    "environment": 0,
+    "science": 0,
+    "philosophy": 0,
+    "economics": 0,
+    "consciousness": 0,
+    "technology": 0,
+    "psychology": 0,
+    "leadership": 0,
+    "innovation": 0,
+    "health": 0,
+    "motivation": 0,
+    "neuroscience": 0,
+    "education": 0
+  },
+  "speaker_exposure": {},
+  "interest_vector": {
+    "psychology": 0.6,
+    "science": 0.6,
+    "ai": 0.6,
+    "philosophy": 0.6
+  },
+  "explicit_interests": [
+    "science",
+    "ai",
+    "psychology",
+    "philosophy"
+  ],
+  "total_interactions": 0
+}

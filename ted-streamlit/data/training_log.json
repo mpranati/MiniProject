@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "ts": 1773729968.041344,
+      "type": "knn_train",
+      "n_talks": 500,
+      "matrix_shape": [
+        500,
+        50
+      ]
+    }
+  ]
+}
